@@ -139,9 +139,9 @@
 //window.console.log(x === y && y !== z);
 
 //STEP 19 typeof
-//
-//var widget = new Object();
-//typeof widget;
+
+var widget = new Object();
+typeof widget;
 
 //Use the new operator to create a new Object called “widget”. Within the console window, use the typeof operator to display the type of variable widget is.
 //Using the instanceof operator, write an application that returns true within the console window if the widget variable is an instance of an object.
